@@ -1,0 +1,13 @@
+#header {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  margin: 10px;
+  box-shadow: 5px 5px lightgray;
+}
+
+.logo {
+  height: 15%;
+  width: 15%;
+  object-fit: cover;
+}
